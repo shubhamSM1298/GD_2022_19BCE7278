@@ -58,6 +58,8 @@
   <ItemGroup>
     <Compile Include="Assets\Script\playerMovement.cs" />
     <Compile Include="Assets\Script\IsVisible.cs" />
+    <Compile Include="Assets\Script\playerfile.cs" />
+    <Compile Include="Assets\Script\sticky.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
